@@ -11,6 +11,13 @@ pip install matplotlib
 ## 1.2、LogisticRegression.ipynb
 与1.1相同，不过要下载数据集，数据集已经存放在number_before_zip中，解压数据即可。
 
+## 1.3、TensorflowTips.ipynb
+```python
+pip install scikit-learn==0.21.1
+```
+最后一个保存实现不了，其余基本上都可以。
+难度是比较大的，比较恶心的。
+
 # 2、其余解说：
 ## 2.1、LinearRegression.ipynb
 实战一：线性回归
@@ -34,3 +41,7 @@ graph的体现比较少，Session的体现在应用迭代之中。
 ## 2.2、LogisticRegression.ipynb
 大致内容也差不多，只是多了读取数据集。
 有图片和线性数据的区别。
+
+## 2.3、TensorflowTips.ipynb
+虽然学习了**梯度下降方法总结、自动求导autodiff、使用Optimizer**等方法，但这给我的感觉基本上等于没学。 
+我只能说教的还是很差劲的。
