@@ -1,1 +1,0 @@
-这个是MINUS数据集，专门用于LogisticRegression.ipynb的，用前解压一下即可。
